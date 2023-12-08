@@ -37,6 +37,7 @@ h1{
 img{
     max-width: 100%;
     display: block;
+    
 }
 .flex{
     display: flex;
@@ -58,4 +59,11 @@ footer{
     justify-content: space-around;
 
 }
+.Banner img { 
+    width: 100%;
+    margin: 0 auto;
+    /* é necessario colocar o img!
+     */
+}
+
 

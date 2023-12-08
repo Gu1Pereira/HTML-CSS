@@ -13,7 +13,7 @@ ul{
     display:flex;
     flex-wrap: wrap;
     /*
-    A propriedade CSS flex-wrap defeine os itens flexíveis são forçados a ficarem na mesma linha ou podem ser quebradas  em varias linhas. Se o argumento for valido, ele define a direção em que as linhas são epilhadas.
+    A propriedade CSS flex-wrap define os itens flexíveis são forçados a ficarem na mesma linha ou podem ser quebradas  em varias linhas. Se o argumento for valido, ele define a direção em que as linhas são epilhadas.
     */
 }
 
